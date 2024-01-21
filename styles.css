@@ -52,6 +52,7 @@ p {
   font-size: 22px;
   font-family:"Segoe UI",sans-serif;
   vertical-align: middle;
+  display: block;
 }
 
 h1 {
